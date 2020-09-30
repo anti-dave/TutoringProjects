@@ -1,0 +1,2 @@
+You can think of Dynamic typing as having data's typing be unknown until runtime.
+Likewise, you can think of Static typing as having to specify data's type while writing the program, as it gets evaluated at compile time. 

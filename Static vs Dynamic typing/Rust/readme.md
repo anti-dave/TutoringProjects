@@ -1,0 +1,1 @@
+Rust is a Strong Statically typed lanuage. You will see some parallels with Haskell.

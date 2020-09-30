@@ -1,0 +1,1 @@
+Haskell is a Strongly Statically typed language.
